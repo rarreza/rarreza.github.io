@@ -24,34 +24,23 @@
         "network": "linkedin",
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/ronuel-arreza-16381819b/"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Gaming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Anime",
       "keywords": [
       ]
     }
