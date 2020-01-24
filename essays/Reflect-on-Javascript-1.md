@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: My Beginnings to Now
+title: My Thoughts on JavaScript
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
