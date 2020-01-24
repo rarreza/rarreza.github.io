@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: Rock, Paper, Scissors
-permalink: projects/micromouse
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
