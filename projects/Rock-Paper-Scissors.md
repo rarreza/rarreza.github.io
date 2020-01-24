@@ -10,7 +10,7 @@ labels:
   - CSS
   - HTML
   - JavaScript
-summary: I was trying out javascript by myself before class started, watched tutorials on how to make small games, this is what I made.
+summary: A basic Rock, Paper, Scissors game I made during my winter break in 2019.
 ---
 
 
