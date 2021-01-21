@@ -3,13 +3,13 @@ layout: essay
 type: essay
 title: My Thoughts on JavaScript
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-23
+date: 2021-01-20
 labels:
   - Software Engineering
   - Learning
 ---
 
-Javascript still uses some familiar terms in the previous languages that I learned, such as arrays, loops, objects, etc. It was feels somewhat easier, because I don’t have to always name something a string, double, or integer, for example “string sentences = “word”;” but in javascript I can do “let sentence = “words”; ” , let can make it to a string or integer, depending on what I did after the equals sign. But for someone like me, I need to keep working on this because I am in a new type of environment, I use to do all of my ICS test, quizzes, and assignments were all online, and I always relied on my notes on how to solve anything. 
+Javascript still uses some familiar terms in the previous languages that I learned, such as arrays, loops, objects, etc. Using Javascript feels somewhat easier, because I don’t have to always name something a string, double, or integer, for example “string sentences = “word”;” but in javascript I can do “let sentence = “words”; ” , let allows me to create a string or integer, depending on what I did after the equals sign. But for someone like me, I need to keep working on this because I am in a new type of environment, I use to do all of my ICS test, quizzes, and assignments all online without any meetings. But now since Covid happened, learning feels much harder for me, I do have time to study, but there is less communication with our groups face to face. 
 
 Before classes started, I was practicing JavaScript, HTML, and CSS on my own in the last week of my 2019 winter break, just to refresh my head on coding again. I was learning from youtuber “Clever Programmer” at the time and did about 5 hours of his “JavaScript Tutorial for Beginners- Full Course in 8 Hours [2020]”. I haven’t learned new things coding related in this module yet, what I noticed from this module, is that the writing intensive was writing these essays and others for our portfolio, it wasn’t the codes or at least not yet.
 
