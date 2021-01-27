@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: projectRPS.PNG
 title: Rock, Paper, Scissors
 permalink: 
 # All dates must be YYYY-MM-DD format!
