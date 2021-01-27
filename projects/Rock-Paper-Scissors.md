@@ -19,7 +19,7 @@ This program recreates the game rock, paper, scissors using HTML, CSS, and JavaS
 
 How the game works is you choose rock, paper, or scissors and your "opponent" chooses those three randomly, if both are the same you tie, if they are different then you either win or lose. There is also a button to challenge your opponent again. Things that I would like to add but not have time for it, is adding a score board, "battle" music, and animated images. 
 
-Link to game: https://ronuela12.github.io/AbdulsGame/
+Link to game:  <a href="https://ronuela12.github.io/AbdulsGame/">Link to the Game</a>
 
 Here is some code that illustrates how the opponent chooses:
 
