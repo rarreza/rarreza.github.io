@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/RobotPatch.png
 title: robot patch
 permalink: 
 # All dates must be YYYY-MM-DD format!
