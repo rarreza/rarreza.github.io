@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projectRPS.PNG
+image: "https://rarreza.github.io/images/testMe.png"
 title: Rock, Paper, Scissors
 permalink: 
 # All dates must be YYYY-MM-DD format!
