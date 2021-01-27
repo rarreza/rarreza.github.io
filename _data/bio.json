@@ -35,12 +35,12 @@
       ]
     },
     {
-      "name": "Gaming",
+      "name": "Web Design",
       "keywords": [
       ]
     },
     {
-      "name": "Anime",
+      "name": "Game Development",
       "keywords": [
       ]
     }
@@ -62,7 +62,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
       "startDate": "2016-09-01",
       "endDate": "Present",
@@ -86,9 +86,7 @@
     },
     
   ],
-  "volunteer": [
-   
-  ],
+
   "awards": [
     {
       "title": "Toshiba Exploration Competition 2012",
